@@ -1,1 +1,1 @@
-# ActiMaven
+Maven Project
